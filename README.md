@@ -3,14 +3,18 @@
 A new Flutter project.
 
 ## Getting Started
+Track attendance with Geolocator. Mark entry/exit, capture coordinates. Manage profiles and update passwords.
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(96).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(97).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(98).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(99).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(100).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(101).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(102).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(103).png?raw=true)
+![alt text](https://github.com/T0MM11Y/Presensi_Flutter_with_Geolocator/blob/main/AbsesniFlutterDocumentation/Screenshot%20(103).png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
